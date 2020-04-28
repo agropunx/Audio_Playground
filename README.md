@@ -1,5 +1,4 @@
 # Audio Playground
 
-Music Retrieval Information and Sound Processing applications
+Music Retrieval Information and Sound Processing applications with Python
 
-<
