@@ -33,7 +33,7 @@ PyQt5==5.14.2
 PyQt5-sip==12.7.2
 python-dateutil==2.8.1
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==18.1.1
 resampy==0.2.2
 scikit-learn==0.22.2.post1
